@@ -15,3 +15,11 @@
 import c
 print(c.add(5,6))
 print(c.subtract(9,0))
+print(c.product(4,0))
+print(c.divide(2,4))
+# from module import fucntions, classname, variable.. etc                
+#step1:create virtual environment
+#python - m venv myenv
+#step 2: activate the virtual environment
+#myenv\scripts\activate
+#source myenv/bit/activate
