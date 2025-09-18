@@ -12,4 +12,3 @@ class Calc:
 object1 = Calc(6,7)
 print(object1.add())
 print(object1.show_calculation())
-
